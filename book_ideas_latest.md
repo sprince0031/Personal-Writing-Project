@@ -1,0 +1,39 @@
+## Book ideas
+- Space has been privatised and enterprises have established control over Mars and the moon.
+- The companies were initially supported by governments on earth but have become independent and have established their own rules. 
+- Earth is on the brink of ruin with climate disasters becoming more frequent by the day.
+- life on Mars is very controlled and with very little freedom for independent thought or breaking the norms set by society (the enterprises).
+- hero is a peace officer (police) in one of the territories of the biggest establishments on Mars. Is initially a believer in their way of life. Eventually realises the lie. 
+- People are fitted with a neuralink type of device the moment they are born. They are trained to do work that services a certain part of society. Dopamine secretion is stimulated and inhibited based on the actions. If it is related to the intended role, the neuralink device stimulates a lot of dopamine secretion and inhibits if the task done is a deviation.
+- This above point is not known by the public and they are made to believe that everything is their own choice. This is the real illusion of choice. 
+- The main antagonist is the billionaire ceo of one of the large corporate entities that control part of the population on Mars. 
+- His motivations (kind of cliché) are that humanity cannot control its desires and greed by itself at the scale and population it has grown to. It needs controlling from a single authority which he has self proclaimed to be.
+- The protagonist as mentioned before is oblivious to the slavery and control in plain sight.
+- She crosses paths with a stowaway from Earth who managed to escape and come into Mars aboard a supply ship from Earth.
+- The stowaway has no neuralink attached and hence has real free will. He is aided on his escape by a member of the underground syndicate dedicated to thwart the villain and restore humanity to how it was.
+- The protagonist cop initially uses him as a way to infiltrate the ranks of the syndicate but then realises the truth.
+- She builds a good rapport with the stowaway guy and eventually comes to care for him.
+- She joins the fight and this is where the first book ends.
+- The second book deals with a war with the tech companies and how the new dynamic duo are instrumental in the good fight. (Need to flesh out and add more interesting plot points)
+- Towards the end of the second book, the rebel cop is swayed and influenced by the villain and she gets why he has had to do what he does. (Have a reference to Papa's book as a favourite of the villain who obviously twists the facts presented in it and goes extreme eventually) She infact was swayed somewhere in the middle of the events of this book (give subtle hints to the readers) and she becomes a mole among the syndicate. This is revealed towards the end and it ends with the stowaway dude being back-stabbed.
+- Book #3 in the trilogy is about him rising up and facing his once dear partner.
+- The villain now clearly shows his megalomaniac tendencies and it is more clear to the readers that he needs to go and has been corrupted by power.
+- Epic final battle ensues where the villain and the original protagonist turned antagonist are defeated. 
+- The cop also eventually realises the corruption in the villain and helps to defeat him too but also suffers some great loss if not death.
+- A new order is created and a council is formed that promises a new utopia.
+- Somehow convey that the villain wasn't entirely wrong and that we cannot completely go back to our irresponsible and mindless consumerist ways. 
+- This will be an aspect that is tackled in a better way by the new council.
+- Sidenote: prequel book about the climate wars that were waged on Earth which forced an exodus to Mars. This follows a different character(s) and leads upto the escape of our original stowaway hero to Mars.
+___
+
+- Mention sleep tracking senses disturbed sleep.
+- Origin of the Martiani: fight breaks out in a bar and few drops of blood are spilt in an ordinary martini turning it red like Mars. 
+- On Mars, because there is no international law that mandates any country to lay claim to any land, the giant corporations that first go there form the administrative policies and govern Martian land.
+- Every citizen born in a corporate country are employees of that company with a minimum pay and are educated and trained towards the requirements of the company.
+- The Martian land is the "app store" or platform. Other businesses setting up shop on Martian land has to pay the platform tax as mandated by the ruling corporation just like apps on the apple app store or on Google's play store.
+- They're the new Mafia where they provide security and the employees for these businesses. 
+- There is a minimum number of employees that are provided for the base "app store" tax. As the business expands, and the requirement increases, additional tax needs to be payed.
+- As a result, there is "employee" trafficking where businesses smuggle in people from outside the country to work for their company. These smuggled people aren't fitted with the neuralink type of device that registers a citizen's identity. They're quality of life is also not good because they have to stay hidden for their own saftey.
+- These smuggled employees are sent from earth where there are "shaddy" organizations training them. They are also made to believe that Mars is the future and Earth is becoming fast inhospitable. So they find this as a means of escape.
+- There are three (or four? Or just 2?) rival corporations on Mars. There is one which is the biggest. And then the other two which are big but not as big as the first.
+- Side note: quality of life for citizens (focusing mainly on the main corporate country) is decent where all basic needs are either free or heavily subsidized (although data is also taken).
