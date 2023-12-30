@@ -1,0 +1,1 @@
+This file indicates to quollwriter that the parent directory can be safely deleted or copied.
