@@ -4,98 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8cca3a5f6975d84a",
+        "id": "8ab6aaa825fd5b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc1ab6afd09f273",
+            "id": "764970468628fec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Red Horizon/Characters/Maxwell Kane/Character Description.md",
-                "mode": "source",
-                "source": false
+                "file": "Project Spriri/Project Spriri Kanban.md"
               }
             }
           },
           {
-            "id": "b2fca16674690d73",
+            "id": "b4b351bbdbb0caab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red Horizon/Blood Lust/Chapters/Chapter 1/Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "736b8693f15f4f34",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas",
-                "viewState": {
-                  "x": 250,
-                  "y": -295,
-                  "zoom": -0.31311323014731884
-                }
-              }
-            }
-          },
-          {
-            "id": "8285f7d567b9ef79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Horizon/Lore/Cygnus Corp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee03d7735b3c745b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Horizon/Lore/Mars Colonisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70d5a7617b2acd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Horizon/Research/Research Notes and References.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e319eb595b44fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Horizon/Blood Lust/Premise.md",
+                "file": "Project Spriri/Premise.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas",
+                "file": "Project Spriri/Premise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas",
+                "file": "Project Spriri/Premise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas"
+                "file": "Project Spriri/Premise.md"
               }
             }
           }
@@ -223,16 +158,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "669737af12a1e6f4",
+  "active": "b4b351bbdbb0caab",
   "lastOpenFiles": [
+    "Project Spriri/Project Spriri Kanban.md",
+    "Project Spriri/Chapters/Chapter 2/Outline.md",
+    "Project Spriri/Chapters/Chapter 1/Outline.md",
+    "Project Spriri/Chapters/Chapter 2/2. First Embrace.md",
+    "Project Spriri/Chapters/Chapter 2",
+    "Project Spriri/Chapters/Chapter 1/1. About Time.md",
+    "Project Spriri/Chapters/Chapter 1",
+    "Project Spriri/Chapters",
+    "Red Horizon/Red Horizon Kanban.md",
+    "Red Horizon/Blood Lust/Blood Lust Kanban.md",
+    "Project Spriri/Untitled Kanban.md",
+    "Red Horizon/Blood Lust/Premise.md",
+    "Project Spriri/Premise.md",
+    "Red Horizon/Red Horizon Idea Board.canvas",
+    "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas",
+    "Project Spriri",
     "Project Spriri",
     "Red Horizon/Locations/The Martiani Bar",
     "Red Horizon/Locations/Mars Crater City (Unnamed)",
     "Red Horizon/Locations/Eva's Apartment",
     "Red Horizon/Locations",
     "Red Horizon/Characters/Eva Roy/Character Description.md",
-    "Red Horizon/Blood Lust/Blood Lust Idea Board.canvas",
-    "Red Horizon/Red Horizon Idea Board.canvas",
     "Red Horizon/Blood Lust/Chapters/Chapter 1/Outline.md",
     "Red Horizon/Lore/Cygnus Corp.md",
     "Red Horizon/LegacyItems/Legacy ideas.md",
@@ -242,20 +191,12 @@
     "().md",
     "Red Horizon/Research",
     "Red Horizon/Plot Points.md",
-    "Red Horizon/Lore/Mars colony",
-    "Red Horizon/Blood Lust/Premise.md",
-    "Red Horizon/Red Horizon Kanban.md",
     "Red Horizon/Blood Lust/Chapters/Chapter 1/Scene1.excalidraw.md",
     "Red Horizon/Blood Lust/Chapters/Chapter 1/Chapter 1.md",
-    "Red Horizon/Blood Lust/Chapters/Chapter 1",
-    "Red Horizon/Blood Lust/Chapters",
-    "Red Horizon/Blood Lust/Blood Lust Kanban.md",
     "Red Horizon/Characters/Nora/Character Description.md",
     "Red Horizon/Characters/Maxwell Kane/Character Description.md",
     "Short Fiction/Sunset.md",
-    "Red Horizon/Characters/Maxwell Kane",
     "Red Horizon/Characters/Eva Roy/Character Arcs.md",
-    "Red Horizon/Characters/Nora",
     "Short Fiction/Up in Flames.md",
     "Red Horizon/Flash Fiction Tie-ins/#1 The Martiani/ambitious-creative-co-rick-barrett-QjUY7auDzUQ-unsplash.jpg",
     "Red Horizon/Flash Fiction Tie-ins/#1 The Martiani/TheMartiani_Final_LightRoom.jpg",
@@ -263,10 +204,7 @@
     "Red Horizon/Flash Fiction Tie-ins/#1 The Martiani/TheMartiani.png",
     "Red Horizon/Flash Fiction Tie-ins/#1 The Martiani/Martini.png",
     "Red Horizon/Images/Cygnus_Sample_Logo.jpeg",
-    "Short Fiction/Bittersweet.md",
-    "Red Horizon/LegacyItems/book_ideas_latest.md",
     "Red Horizon/Blood Lust/QuollWriter/Images/Cygnus_Sample_Logo.jpeg",
-    "Red Horizon/Blood Lust/Images/Cygnus_Sample_Logo.jpeg",
-    "Up in Flames.md"
+    "Red Horizon/Blood Lust/Images/Cygnus_Sample_Logo.jpeg"
   ]
 }
