@@ -1,0 +1,3 @@
+[[Research Notes and References#Nuera|Research notes]]
+
+Nuera is a neural interface device developed by [[Cygnus Corp]] which can manipulate decisions of people fitted with it. The citizens are unaware of its capabilities to manipulate them. All they know is that it augments their functions such as providing brain signals stimulating the optical cortex so that they can directly get AR input into their field of vision. Also, the device has an AI assistant, [[Red Horizon/Characters/Nora/Character Description|Nora]] built in that can talk and do tasks for you. All you need to do is to think of something you need and the assistant is there like a voice in your head and will also appear as an AR artefact in your field of view.

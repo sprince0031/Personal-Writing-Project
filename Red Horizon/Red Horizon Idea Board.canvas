@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"11ae2c7800ab1847","type":"text","text":"# Red Horizon","x":-160,"y":-360,"width":250,"height":60},
+		{"id":"b58859f93bd1b8d0","type":"text","text":"## Part II - ???","x":-135,"y":-180,"width":200,"height":60},
+		{"id":"a7e7e204308079e0","type":"text","text":"## Blood Lust","x":-780,"y":-180,"width":200,"height":60,"color":"1"},
+		{"id":"8d8070cf6e738452","type":"file","file":"Red Horizon/Blood Lust/Premise.md","x":-880,"y":-20,"width":400,"height":400},
+		{"id":"e6b0804f133f0630","type":"text","text":"## Part III - ???","x":480,"y":-180,"width":220,"height":60},
+		{"id":"7cdd1241b0781510","type":"file","file":"Red Horizon/Blood Lust/Blood Lust Idea Board.canvas","x":-880,"y":480,"width":400,"height":400},
+		{"id":"d457ea54d2f5d57f","x":-235,"y":-880,"width":400,"height":400,"type":"file","file":"Red Horizon/Plot Points.md"}
+	],
+	"edges":[
+		{"id":"ea3c10f72e1011a2","fromNode":"11ae2c7800ab1847","fromSide":"bottom","toNode":"a7e7e204308079e0","toSide":"top"},
+		{"id":"9af0726bff24df0b","fromNode":"11ae2c7800ab1847","fromSide":"bottom","toNode":"b58859f93bd1b8d0","toSide":"top"},
+		{"id":"f30445cc0fac595d","fromNode":"11ae2c7800ab1847","fromSide":"bottom","toNode":"e6b0804f133f0630","toSide":"top"},
+		{"id":"2e4fc078d70ccb1b","fromNode":"a7e7e204308079e0","fromSide":"bottom","toNode":"8d8070cf6e738452","toSide":"top"},
+		{"id":"b06eb7553cdde5b1","fromNode":"8d8070cf6e738452","fromSide":"bottom","toNode":"7cdd1241b0781510","toSide":"top"},
+		{"id":"9d49bee2f11b2f97","fromNode":"11ae2c7800ab1847","fromSide":"top","toNode":"d457ea54d2f5d57f","toSide":"bottom"}
+	]
+}

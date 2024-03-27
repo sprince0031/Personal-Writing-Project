@@ -1,0 +1,1 @@
+The protagonist for the first book in the series. Eva is a detective in Province 15 of Cygnus controlled martian territory.

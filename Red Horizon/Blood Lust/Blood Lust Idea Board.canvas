@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e022dcf3e5b7b02a","type":"file","file":"Red Horizon/Blood Lust/Premise.md","x":40,"y":-810,"width":400,"height":400},
+		{"id":"f00af43d970136ed","type":"file","file":"Red Horizon/Lore/Cygnus Corp.md","x":740,"y":-810,"width":400,"height":400},
+		{"id":"b10cadf851f37dc5","type":"text","text":"## [[Red Horizon/Characters/Eva Roy/Character Description|Eva Roy]]","x":-640,"y":-490,"width":400,"height":50},
+		{"id":"3592a2167f78d9bb","type":"file","file":"Red Horizon/Characters/Eva Roy/Character Arcs.md","x":-640,"y":-380,"width":400,"height":300},
+		{"id":"f434ee87101b4979","type":"file","file":"Red Horizon/Lore/Nuera.md","x":740,"y":-320,"width":400,"height":400},
+		{"id":"68582d5da91b4036","type":"text","text":"## [[Red Horizon/Characters/Nora/Character Description|Nora]]","x":740,"y":160,"width":400,"height":60}
+	],
+	"edges":[
+		{"id":"bd4890e82a6223e0","fromNode":"b10cadf851f37dc5","fromSide":"bottom","toNode":"3592a2167f78d9bb","toSide":"top"},
+		{"id":"c42d7213860f2f31","fromNode":"e022dcf3e5b7b02a","fromSide":"right","toNode":"f00af43d970136ed","toSide":"left","fromEnd":"arrow"},
+		{"id":"fa6856b6c680f923","fromNode":"f00af43d970136ed","fromSide":"bottom","toNode":"f434ee87101b4979","toSide":"top","label":"Developed"},
+		{"id":"7aecbc883ca696d7","fromNode":"b10cadf851f37dc5","fromSide":"right","toNode":"f434ee87101b4979","toSide":"left","label":"investigating"},
+		{"id":"2c11a4feec937d9f","fromNode":"b10cadf851f37dc5","fromSide":"right","toNode":"e022dcf3e5b7b02a","toSide":"left","fromEnd":"arrow"},
+		{"id":"4d9f526f9940d550","fromNode":"f434ee87101b4979","fromSide":"bottom","toNode":"68582d5da91b4036","toSide":"top","label":"AI User Interface"}
+	]
+}

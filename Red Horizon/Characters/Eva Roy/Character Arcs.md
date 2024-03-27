@@ -1,0 +1,1 @@
+Eva has always struggled with procrastination. In the past, her procrastination on a case cost a victim's life which she would never forget and forgive herself for. So, later in the story, when she realises that the Nuera can actually make it that she wouldn't procrastinate anymore, she is inclined to side with the antagonist and overlook the potential for mind control.
