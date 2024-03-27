@@ -1,0 +1,1 @@
+Chapter 2 starts with Spriri having their first ever embrace and the events that follow.
